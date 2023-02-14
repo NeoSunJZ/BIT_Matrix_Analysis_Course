@@ -1,0 +1,2 @@
+# BIT_Matrix_Analysis_Course
+北京理工大学矩阵分析试题观察和往年试题，有帮助欢迎给Star，欢迎更多校友贡献资源
